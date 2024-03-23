@@ -1,0 +1,4 @@
+max-connection=10
+server-port=8081
+server-host=localhost
+exit-chat=/exit
